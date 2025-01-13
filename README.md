@@ -1,2 +1,3 @@
 # Preprocesamiento-de-datos
-Preprocesamienyo de datos de encuesta estudiantil
+Preprocesamiento de datos de encuesta estudiantil.
+Estos datos se recolectaron a travez de un formulario.
